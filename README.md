@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Bootstrap,**
 
-- 👨‍💻 All of my projects are available at [https://stupefied-ride-9ed1aa.netlify.app//](https://stupefied-ride-9ed1aa.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sumit-mishra-portfolio.netlify.app/](https://sumit-mishra-portfolio.netlify.app/)
 
 - 💬 Ask me about **Vanilla JavaScript**
 
