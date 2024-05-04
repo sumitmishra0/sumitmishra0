@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sumitmi79359037" target="blank"><img src="https://img.shields.io/twitter/follow/sumitmi79359037?logo=twitter&style=for-the-badge" alt="sumitmi79359037" /></a> </p>
 
-- 🌱 I’m currently learning **Bootstrap,**
+- 🌱 I’m currently working on **Flutter,**
 
 - 👨‍💻 All of my projects are available at [https://sumit-mishra-portfolio.netlify.app/](https://sumit-mishra-portfolio.netlify.app/)
 
